@@ -5,3 +5,5 @@
 
 Vivasity的B站个人主页：
 https://space.bilibili.com/687424412
+
+视频代码存放在文件夹/video_code中，文件夹名中的日期表示视频发布在B站上的日期。
