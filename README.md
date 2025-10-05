@@ -10,4 +10,4 @@ https://space.bilibili.com/687424412
 Vivasity的Youtube个人主页：
 https://www.youtube.com/@trance_kernel
 
-视频代码存放在文件夹<code>/video_code</code>中，文件夹名中的日期表示视频发布在B站上的日期。
+视频代码存放在文件夹<code>/video_code</code>中，文件夹名中的日期表示与该文件夹中的代码相关的视频发布在B站上的日期。
